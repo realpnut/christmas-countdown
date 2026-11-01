@@ -14,17 +14,17 @@ CHRISTMAS COUNTDOWN
     fill="#D8B66A">DAYS</text>
     
     <text x="270" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">07</text>
+    font-weight="bold" fill="#FFFFFF">03</text>
     <text x="270" y="145" font-size="13"
     fill="#D8B66A">HOURS</text>
     
     <text x="440" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">43</text>
+    font-weight="bold" fill="#FFFFFF">16</text>
     <text x="440" y="145" font-size="13"
     fill="#D8B66A">MINUTES</text>
     
     <text x="610" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">02</text>
+    font-weight="bold" fill="#FFFFFF">12</text>
     <text x="610" y="145" font-size="13"
     fill="#D8B66A">SECONDS</text>
     
