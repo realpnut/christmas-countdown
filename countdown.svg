@@ -1,35 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 width="700" height="190" viewBox="0 0 700 190">
-<rect width="700" height="190" rx="18" fill="#17221B"/>
+
+<rect width="700" height="190" rx="18" fill="#0D1117"/>
+
 <text x="350" y="42" text-anchor="middle"
 font-family="monospace" font-size="23"
-font-weight="bold" fill="#D8B66A">
+font-weight="bold" fill="#58A6FF">
 CHRISTMAS COUNTDOWN
 </text>
+
 <g font-family="monospace" text-anchor="middle">
 
     <text x="100" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">52</text>
+    font-weight="bold" fill="#FFFFFF">51</text>
+
     <text x="100" y="145" font-size="13"
-    fill="#D8B66A">DAYS</text>
+    fill="#58A6FF">DAYS</text>
     
     <text x="270" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">03</text>
+    font-weight="bold" fill="#FFFFFF">23</text>
+
     <text x="270" y="145" font-size="13"
-    fill="#D8B66A">HOURS</text>
+    fill="#58A6FF">HOURS</text>
     
     <text x="440" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">16</text>
+    font-weight="bold" fill="#FFFFFF">22</text>
+
     <text x="440" y="145" font-size="13"
-    fill="#D8B66A">MINUTES</text>
+    fill="#58A6FF">MINUTES</text>
     
     <text x="610" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">12</text>
+    font-weight="bold" fill="#FFFFFF">54</text>
+
     <text x="610" y="145" font-size="13"
-    fill="#D8B66A">SECONDS</text>
+    fill="#58A6FF">SECONDS</text>
     
 </g>
+
 <text x="350" y="177" text-anchor="middle"
 font-family="monospace" font-size="10"
-fill="#A9BBAE">UNTIL CHRISTMAS· 24.12.2026</text>
+fill="#79C0FF">UNTIL CHRISTMAS · 24.12.2026</text>
+
 </svg>
