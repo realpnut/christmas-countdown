@@ -1,38 +1,35 @@
-
-
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="700" height="190" viewBox="0 0 700 190">
+width="700" height="190" viewBox="0 0 700 190">
+<rect width="700" height="190" rx="18" fill="#17221B"/>
+<text x="350" y="42" text-anchor="middle"
+font-family="monospace" font-size="23"
+font-weight="bold" fill="#D8B66A">
+CHRISTMAS COUNTDOWN
+</text>
+<g font-family="monospace" text-anchor="middle">
 
-  <rect width="700" height="190" rx="18" fill="#17221B"/>
-
-  <text x="350" y="42"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="23"
-        font-weight="bold"
-        fill="#D8B66A">
-    CHRISTMAS COUNTDOWN
-  </text>
-
-  <g font-family="monospace" text-anchor="middle">
-    <text x="100" y="112" font-size="39" fill="#FFFFFF">53</text>
-    <text x="100" y="145" font-size="13" fill="#D8B66A">DAYS</text>
-
-    <text x="270" y="112" font-size="39" fill="#FFFFFF">14</text>
-    <text x="270" y="145" font-size="13" fill="#D8B66A">HOURS</text>
-
-    <text x="440" y="112" font-size="39" fill="#FFFFFF">32</text>
-    <text x="440" y="145" font-size="13" fill="#D8B66A">MINUTES</text>
-
-    <text x="610" y="112" font-size="39" fill="#FFFFFF">08</text>
-    <text x="610" y="145" font-size="13" fill="#D8B66A">SECONDS</text>
-  </g>
-
-  <text x="350" y="177"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10"
-        fill="#A9BBAE">
-    UNTIL CHRISTMAS EVE · 24.12.2026
-  </text>
+    <text x="100" y="112" font-size="39"
+    font-weight="bold" fill="#FFFFFF">52</text>
+    <text x="100" y="145" font-size="13"
+    fill="#D8B66A">DAYS</text>
+    
+    <text x="270" y="112" font-size="39"
+    font-weight="bold" fill="#FFFFFF">07</text>
+    <text x="270" y="145" font-size="13"
+    fill="#D8B66A">HOURS</text>
+    
+    <text x="440" y="112" font-size="39"
+    font-weight="bold" fill="#FFFFFF">43</text>
+    <text x="440" y="145" font-size="13"
+    fill="#D8B66A">MINUTES</text>
+    
+    <text x="610" y="112" font-size="39"
+    font-weight="bold" fill="#FFFFFF">02</text>
+    <text x="610" y="145" font-size="13"
+    fill="#D8B66A">SECONDS</text>
+    
+</g>
+<text x="350" y="177" text-anchor="middle"
+font-family="monospace" font-size="10"
+fill="#A9BBAE">UNTIL CHRISTMAS· 24.12.2026</text>
 </svg>
