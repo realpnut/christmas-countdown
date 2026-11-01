@@ -3,8 +3,10 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from pathlib import Path
 
-TARGET = datetime(2026, 12, 24, 0, 0, 0,
-                  tzinfo=ZoneInfo("Europe/Warsaw"))
+TARGET = datetime(
+    2026, 12, 24, 0, 0, 0,
+    tzinfo=ZoneInfo("Europe/Warsaw")
+)
 
 now = datetime.now(ZoneInfo("Europe/Warsaw"))
 remaining = max(0, int((TARGET - now).total_seconds()))
@@ -15,12 +17,15 @@ minutes, seconds = divmod(remaining, 60)
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
 width="700" height="190" viewBox="0 0 700 190">
-<rect width="700" height="190" rx="18" fill="#17221B"/>
+
+<rect width="700" height="190" rx="18" fill="#0D1117"/>
+
 <text x="350" y="42" text-anchor="middle"
 font-family="monospace" font-size="23"
-font-weight="bold" fill="#D8B66A">
+font-weight="bold" fill="#58A6FF">
 CHRISTMAS COUNTDOWN
 </text>
+
 <g font-family="monospace" text-anchor="middle">
 '''
 
@@ -35,15 +40,18 @@ for value, label, x in values:
     svg += f'''
     <text x="{x}" y="112" font-size="39"
     font-weight="bold" fill="#FFFFFF">{value:02d}</text>
+
     <text x="{x}" y="145" font-size="13"
-    fill="#D8B66A">{label}</text>
+    fill="#58A6FF">{label}</text>
     '''
 
 svg += '''
 </g>
+
 <text x="350" y="177" text-anchor="middle"
 font-family="monospace" font-size="10"
-fill="#A9BBAE">UNTIL CHRISTMAS· 24.12.2026</text>
+fill="#79C0FF">UNTIL CHRISTMAS · 24.12.2026</text>
+
 </svg>
 '''
 
