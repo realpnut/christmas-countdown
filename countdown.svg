@@ -12,25 +12,25 @@ CHRISTMAS COUNTDOWN
 <g font-family="monospace" text-anchor="middle">
 
     <text x="100" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">43</text>
+    font-weight="bold" fill="#FFFFFF">42</text>
 
     <text x="100" y="145" font-size="13"
     fill="#58A6FF">DAYS</text>
     
     <text x="270" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">00</text>
+    font-weight="bold" fill="#FFFFFF">20</text>
 
     <text x="270" y="145" font-size="13"
     fill="#58A6FF">HOURS</text>
     
     <text x="440" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">29</text>
+    font-weight="bold" fill="#FFFFFF">53</text>
 
     <text x="440" y="145" font-size="13"
     fill="#58A6FF">MINUTES</text>
     
     <text x="610" y="112" font-size="39"
-    font-weight="bold" fill="#FFFFFF">30</text>
+    font-weight="bold" fill="#FFFFFF">31</text>
 
     <text x="610" y="145" font-size="13"
     fill="#58A6FF">SECONDS</text>
